@@ -30,7 +30,7 @@
         android:inputType="textPersonName"
         android:text="About Us"
         android:textColor="#0E0E0E"
-        android:textSize="30sp"
+        android:textSize="35sp"
         app:layout_constraintBottom_toBottomOf="@+id/view4"
         app:layout_constraintEnd_toEndOf="@+id/view4"
         app:layout_constraintStart_toStartOf="@+id/view4"
@@ -49,8 +49,8 @@
             android:layout_width="match_parent"
             android:layout_height="32dp"
             android:layout_marginTop="15dp"
-            android:drawableLeft="@drawable/ic_baseline_email_24"
-            android:hint="  slakani@rku.ac.in"
+            android:drawableLeft="@drawable/ic_baseline_account_circle_24"
+            android:hint="  Shailesh Lakhani"
             android:paddingStart="15dp"
             android:textSize="22sp" />
 
@@ -60,7 +60,7 @@
             android:layout_height="32dp"
             android:layout_marginTop="45dp"
             android:drawableLeft="@drawable/ic_baseline_account_balance_24"
-            android:hint="  8469116765"
+            android:hint="  RK University"
             android:paddingStart="15dp"
             android:textSize="22sp" />
     </androidx.cardview.widget.CardView>
@@ -69,8 +69,7 @@
     <View
         android:id="@+id/view3"
         android:layout_width="match_parent"
-        android:layout_height="50dp
-"
+        android:layout_height="50dp"
         android:background="#0099ff"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -90,7 +89,7 @@
             android:layout_height="32dp"
             android:layout_marginTop="15dp"
             android:drawableLeft="@drawable/ic_baseline_account_circle_24"
-            android:hint="  kansari735@rku.ac.in"
+            android:hint="  Khalid Ansari"
             android:paddingStart="15dp"
             android:textSize="22sp" />
 
@@ -100,7 +99,7 @@
             android:layout_height="32dp"
             android:layout_marginTop="45dp"
             android:drawableLeft="@drawable/ic_baseline_account_balance_24"
-            android:hint="  9898410874"
+            android:hint="  RK University"
             android:paddingStart="15dp"
             android:textSize="22sp" />
 
@@ -129,7 +128,7 @@
             android:layout_height="32dp"
             android:layout_marginTop="15dp"
             android:drawableLeft="@drawable/ic_baseline_account_circle_24"
-            android:hint="  ymarkana@rku.ac.in"
+            android:hint="  Yasha Markana"
             android:paddingStart="15dp"
             android:textSize="22sp" />
 
@@ -139,7 +138,7 @@
             android:layout_height="32dp"
             android:layout_marginTop="45dp"
             android:drawableLeft="@drawable/ic_baseline_account_balance_24"
-            android:hint="  8469116765"
+            android:hint="  RK University"
             android:paddingStart="15dp"
             android:textSize="22sp" />
 
